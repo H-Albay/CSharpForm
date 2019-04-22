@@ -1,0 +1,99 @@
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe.config
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.Properties.Resources.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.GenerateResource.Cache
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAdminGiris.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmYeniMusteri.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAnaform.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmOdalar.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMusteriler.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe.config
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAdminGiris.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAnaform.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMusteriler.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmOdalar.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmYeniMusteri.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.Properties.Resources.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.GenerateResource.Cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe.config
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAdminGiris.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAnaform.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGelirGider.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMusteriler.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmOdalar.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmYeniMusteri.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.Properties.Resources.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.GenerateResource.Cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\YEDEK\10\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.ResolveComReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGelirGider.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmRadioDinle.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGazeteler.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmSifreGüncelle.resources
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMesajlar.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe.config
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Interop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.ResolveComReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Interop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csprojResolveAssemblyReference.cache
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMesajlar.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmSifreGüncelle.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAdminGiris.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAnaform.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGazeteler.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGelirGider.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMusteriler.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmOdalar.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmRadioDinle.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmYeniMusteri.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.Properties.Resources.resources
+C:\Users\HAKAN ALBAY\Desktop\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.GenerateResource.Cache
+C:\Users\HAKAN ALBAY\Desktop\Proje_C#\Korfez Pansiyon Kayıt Uygulaması v1\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmStoklar.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe.config
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\Interop.WMPLib.dll
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\bin\Debug\AxInterop.WMPLib.dll
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csprojAssemblyReference.cache
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Interop.WMPLib.dll
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\AxInterop.WMPLib.dll
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.ResolveComReference.cache
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMesajlar.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmSifreGüncelle.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAdminGiris.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmAnaform.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGazeteler.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmGelirGider.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmMusteriler.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmOdalar.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmRadioDinle.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmStoklar.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.FrmYeniMusteri.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez_Pansiyon_Kayıt_Uygulaması_v1.Properties.Resources.resources
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.GenerateResource.cache
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.csproj.CoreCompileInputs.cache
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.exe
+D:\DERSLER\2.Sınıf\Nesne Tabanlı Programlama\Proje\15541556_İlhami Hakan_ Albay\2-Proje Kodları\Korfez Pansiyon Kayıt Uygulaması v1\obj\Debug\Korfez Pansiyon Kayıt Uygulaması v1.pdb
